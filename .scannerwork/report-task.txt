@@ -1,0 +1,7 @@
+organization=kevinbuzit-github
+projectKey=cesitnotes
+serverUrl=https://sonarcloud.io
+serverVersion=7.1.0.36607
+dashboardUrl=https://sonarcloud.io/dashboard/index/cesitnotes
+ceTaskId=AWGeXDTq79Bh7Toi8lIa
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWGeXDTq79Bh7Toi8lIa
