@@ -1,0 +1,3 @@
+SaisieNotePage:
+    path:     /SaisieNote
+    defaults: { _controller: CESISaisieNoteBundle:Saisie:index }

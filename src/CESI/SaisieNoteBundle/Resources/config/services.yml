@@ -1,0 +1,4 @@
+services:
+#    cesi_saisie_note.example:
+#        class: CESI\SaisieNoteBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
