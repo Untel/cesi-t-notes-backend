@@ -1,0 +1,19 @@
+{% extends 'base.html.twig' %}
+
+{%  block title %} Cesi T notes {% endblock %}
+
+{% block body %}
+<div>
+	<form>
+		<div>
+			<label>Identifiant</label>
+			<input type="email" name="userId">
+		</div>
+		<div>
+  			<label>Mot de passe</label>
+  			<input type="password" name="userPwd">
+  		</div>
+  		<button type="submit">Valider</button>
+	</form>
+</div>
+{% endblock %}
